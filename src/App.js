@@ -13,6 +13,7 @@ const Container = styled.div`
   align-items: center;
   font-family: 'Helvetica';
   overflow: hidden;
+  flex-direction: column;
 `;
 function App() {
   return (
